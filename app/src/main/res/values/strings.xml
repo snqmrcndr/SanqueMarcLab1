@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SanqueMarcLab1</string>
+    <string name="todo">TODO</string>
+    <string name="manila_ocean_park">Manila Ocean Park</string>
+    <string name="location_manila">Location: Manila</string>
+    <string name="distance_from_ust_4_3_kilometers">Distance from UST: 4.3 kilometers</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="b">b</string>
+</resources>
